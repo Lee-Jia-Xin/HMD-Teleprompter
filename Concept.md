@@ -13,15 +13,23 @@ This process is needed to compactize the image from the display into a smaller p
 This process also allows manual manipulation of the magnification of the apparent display.
 The ray heads to a mirror angled around 50° to guide the ray to the Eyepiece Lens. Because of the Objective Lens manipulating the ray in such a way that it crosses itself after the lens again, the rays coming out of the mirror into the Eyepiece Lens will be diverging.
 The ray now heads to and reaches the Eyepiece Lens. This lens manipulates the ray again in such a way that the rays exiting the lens becomes parallel. This lens can be manually manipulated to change the apparent distance of the display from the eye.
-A smooth, transparent
+A smooth, transparent sheet is placed in front of the eye as the visor. This visor is thet last piece of artificial optical instrument in the gadget. It is the "vision merger", facilitating the overlay effect of the display on the surrounding environments. 
 
 ## Spherical Aberration
 
-Spherical aberration is an optical distortion where light rays passing through the periphery of a lens or mirror focus at a different point than those passing through the center, leading to blurry or distorted images. It can be overcomed by using aspherical lenses, doublet lens arrangements, or plano-convex lens.
+Spherical aberration is an optical distortion where light rays passing through the periphery of a lens or mirror focus at a different point than those passing through the center, leading to blurry or distorted images. It can be overcomed by using an aspherical lenses, doublet lens arrangements, or plano-convex lens.
 
 ## Liquid Lens
 
-A lens that can change its focal point by changing its curvature. It is typically achieved by inserting a liquid with high refractive index into a contraption with flexible membranes. When liquid pressure is increased, the flexible membrane flexes into a part of a sphere. The higher the pressure, the more significant the flex, hence a shorter focal length. 
+Liquid lenses can change its focal point by changing its curvature. It is typically achieved by inserting a liquid with high refractive index into a contraption with flexible membranes. When liquid pressure is increased, the flexible membrane flexes into a part of a sphere. The higher the pressure, the more significant the flex, hence a shorter focal length. 
+
+## HMD
+
+Head Mounted Display (HMD) is a hardware category of displays that is anchored to the head nad moves around with the head. It may include AR devices, VR devices, MR devices or simple static overlay devices.
+
+## AR
+
+Augmented Reality (AR) is a technology where digital information overlays onto the real world, with digital positioning, without the ability to interact with the digital elements.
 
 # In Practice
 
@@ -34,13 +42,11 @@ Instead of using electricity to manipulate the pressure, I chose to control mech
 
 ## Plano-convex Lens
 
-Apparently, this type of lens needs to be arranged with the curved face facing the "light source" for it to cancel out spherical aberration. But i didn't know about that when making the whole microscope, so I put it the other way around, even thinking I can avoid the acrylic tape touching and sticking to the sample... How foolish of me...
+Apparently, this type of lens needs to be arranged with the flat face facing the display for it to cancel out spherical aberration.
 
-## Microscope? Or Macroscope?
+## Static Overlay
 
-In this repository, and my original plan, describes a contraption that can be used to magnify minuscule items like a regular light microscope can. However in reality, it can only magnify while focusing to so much. It is due to the lack of volume in the syringe connected to the objective lens. If a larger lens was used, maybe it could've been a microscope.
-Furthermore, my contraption looks at things illuminated by a light above, instead of "shone-through". That is quite literally the definition of a optical macroscope, an optical device that magnifies an object, illuminated from above, around the 1x magnification range.
-So, while it can potentially be upgraded into a proper microscope, it is currently just a macroscope. Hence, I think we should call it a "Micro~Macroscope" instead?
+Static overlay is a technology tthat overlays digital informatioon onto the surrounding environment WITHOUT digital positioning. It plainly overlays digital information just like a transparent tablet in front of the user.
 
 # End
 
