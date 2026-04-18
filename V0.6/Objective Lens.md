@@ -51,7 +51,7 @@ The circular membrane with diameter matching that of the washer is cut out of th
 8. CA glue is applied at the edge where the two faces meet, acting as a seal. Avoid the slit made in the spacer. Small amounts of baking soda may be applied after 5-10 minutes of curing, to slightly speed up the curing process. Immediately applying CA glue will cause the cured glue to be brittle and susceptible to pressure.
 9. A de-sharpened syringe needle is inserted into the slit with care to avoid damaging the Fmembrane. The mouth of the needle should be placed not far from the walls of the spacer. Can be positioned within the slit, but will compromise structural integrity. Position ultimately depends on maker's priority: bubble removal or rigidity of composition.
 10. CA glue is applied at where the needle is inserted. Monitor the CA glue creeping inside the slit, NEVER let it reach the chamber on the contraption. Baking soda may be applied after 5 minute of curing, to slightly speed up the curing process. Repeat process at least twice, but don't let the solid grow too thick.
-11. A syringe half-filled with water is attached to the inserted needle. Water is carefully introduced into the composition, ensuring air bubbles are removed as much as possible to maintain an uninterrupted image.
+11. A 1ml syringe is cut around the 0.2ml mark. The plunger is also vut at the length suitable with the syringe body. The cut syringe is attached to the inserted needle. Water is carefully introduced into the composition, ensuring air bubbles are removed as much as possible to maintain an uninterrupted image.
 12. Trapped air inside syringe should also be removed, before the syringe is reattached to the needle.
 
 ## Testing & Calibration
