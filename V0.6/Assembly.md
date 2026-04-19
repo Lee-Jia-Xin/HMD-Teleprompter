@@ -36,7 +36,13 @@ An SSD1306 OLED module is used as the primry display for the device. The wiring 
 
 # Assembly
 
+## Electronics
+
 1. An unsoldered Arduino Nano and unsoldered SSD1306 are soldered together at a 90° angle with the terminals close together, screen facing inward and Arduino nano's reset button facinng outwards.
 2. An unsoldered HC-05 is soldered to the Nano via 24 AWG wires. This is to retain the abiltiy of the module to be rotated to a more convenient orientation and/or spot to fit into the housing of the device.
 3. Two TP4056 modules are soldered to the VIN and GND pins of the Arduino Nano in series in order to get 7.4V from two 3.7V LiPo batteries. The B+ & B- pins are then connected to the battery's positive and negative terminals respectively.
-4. to be continued (put into casing)
+
+## Casing
+4. Using ice cream sticks, construct a rectangular frame with dimensions 105*40*52 (length*height*width). The space that it makes will house the Electronic assembly and optics. Use hot glue to secure the joints. Spots where the optical instrumnts are mounted should have ice cream sticks in the way so that the intrument can rigidly mount or poke a hole through the stick. The frame will be covered with cardboard later to block light from entering.
+5. The SSD1306-Nano combo is hot glued onto the ice cream stick with the screen facing inward and Nano at the bottom of the frame.
+6. Place the Objective Lens directly in front of the screen, but angle it such that the syringe pokes out the other side of the frame. Hot glue the syringe to the ice cream stick. (TO BE CONTINUED)
