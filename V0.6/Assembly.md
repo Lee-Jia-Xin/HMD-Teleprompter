@@ -43,6 +43,14 @@ An SSD1306 OLED module is used as the primry display for the device. The wiring 
 3. Two TP4056 modules are soldered to the VIN and GND pins of the Arduino Nano in series in order to get 7.4V from two 3.7V LiPo batteries. The B+ & B- pins are then connected to the battery's positive and negative terminals respectively.
 
 ## Casing
-4. Using ice cream sticks, construct a rectangular frame with dimensions 105*40*52 (length*height*width). The space that it makes will house the Electronic assembly and optics. Use hot glue to secure the joints. Spots where the optical instrumnts are mounted should have ice cream sticks in the way so that the intrument can rigidly mount or poke a hole through the stick. The frame will be covered with cardboard later to block light from entering.
-5. The SSD1306-Nano combo is hot glued onto the ice cream stick with the screen facing inward and Nano at the bottom of the frame.
-6. Place the Objective Lens directly in front of the screen, but angle it such that the syringe pokes out the other side of the frame. Hot glue the syringe to the ice cream stick. (TO BE CONTINUED)
+4. Using ice cream sticks, construct a rectangular frame with dimensions 105\*40\*52 (length\*height\*width). The space that it makes will house the Electronic assembly and optics. Use hot glue to secure the joints. Spots where the optical instruments are mounted should have ice cream sticks in the way so that the intrument can rigidly mount or poke a hole through the stick. The frame will be covered with cardboard later to block light from entering.
+5. The SSD1306-Nano combo is hot glued onto an ice cream stick extension with the screen facing inward and Nano at the bottom of the frame.
+6. Place the Objective Lens directly in front of the screen, but angle it such that the syringe pokes out the other side of the frame. Hot glue the syringe to an ice cream stick extension.
+7. Two holes are poked through the top and bottom of the frame ice cream stick inline with the screen and Objective lens. A straightened paper clip is then inserted through these holes.
+8. The mirror is stuck to the straightened paperclip in a horizontal manner.
+9. A small handle is stuck to the top extra portion of the paperclip.
+10. The bottom extra portion of the paperclip is bent into a 90° angle to stop the paperclip from falling off the frame. Hot glue is then applied to inner parts of the bottom of the paperclip, increasing friction to hold the rotation in place while allowing rotation when needed. Forcefully rotate the paperclip to free it from the grip of the hot glue, but do not remove the hot glue blob.
+11. Bend the eyepiece lens syring needle in a 90° angle to allow the lens to be vertically oriented while the syringe is horizontally oriented.
+12. Stick the Eyepiece lens onto the frame in such a position and orientation that when the view is pointed at the mirror, the objective lens does not obstruct the vision of the mirror.
+13. At this point the main body is almost ready. Just find a way stick the rest of components inside the frame but still close to the frame for cooling and you are basically done with the main body.
+14. Next, straighten a piece of paperclip TBC
