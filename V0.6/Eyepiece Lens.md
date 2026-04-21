@@ -21,7 +21,6 @@ The FMembrane is supported by cut bottle caps. A big hole is cut at the center o
 9. Another syringe needle is inserted into the other hole in the same fashion as (step 7), for the same reason. CA glue is applied in the same way as (step 8).
 10. A 5ml syringe filled with water is attached to one of the needles and pumped to introduce water into the lens. Air pocket can be sucked away at this stage too. Repeat until lens buldges with water without any air bubbles.
 11. The same 5ml syringe is inserted fully-filled with water. Any air bubbles in the needle or syringe should be removed before attaching the two parts.
-12. (Step 11) is repeated for the other needle with a half-filled 1ml syringe. This syringe is for fine focus control, while the 5ml syringe is for quick, coarse focus control.
 
 ## Test 
 1. Put pressure on the coarse focus syringe and check for leaks. If there is any, release the pressure and apply CA glue to the spot of leak to seal the hole.
