@@ -6,13 +6,16 @@ Things look good!!!
 
 Head mounted display is a gadget in which the image projected form a display is directed to the user's retina. It may take the form of VR, where only the screen is visible and not the surroundings; or AR, where the screen appears to "overlay" onto the surrounding environment.
 This product categorizes into the AR kind of HMD, utilizing lenses and mirrors to refract and reflect the image of the display to the user's rertina, appearing to float in front of the user's face.
+
 The lens closer to the subject's eyes have a shorter focal length than the one further away from the subject's eyes.
 Light coming off the displpay scatters about in all directions. For simplicity, two rays extending from one point towards the optical system is considered.
 Light rays entering the optical system will pass through the Objective lens, which will manipulate the ray in such a way that the rays heading to the Eyepiece Lens crosses itself before the lens, and crosses itself again after the lens. 
 This process is needed to compactize the image from the display into a smaller packet or cross section, making light manipulation afterwards much smaller than if there's only the display.
 This process also allows manual manipulation of the magnification of the apparent display.
+
 The ray heads to a mirror angled around 50° to guide the ray to the Eyepiece Lens. Because of the Objective Lens manipulating the ray in such a way that it crosses itself after the lens again, the rays coming out of the mirror into the Eyepiece Lens will be diverging.
 The ray now heads to and reaches the Eyepiece Lens. This lens manipulates the ray again in such a way that the rays exiting the lens becomes parallel. This lens can be manually manipulated to change the apparent distance of the display from the eye.
+
 A smooth, transparent sheet is placed in front of the eye as the visor. This visor is thet last piece of artificial optical instrument in the gadget. It is the "vision merger", facilitating the overlay effect of the display on the surrounding environments. 
 
 ## Spherical Aberration
@@ -47,6 +50,10 @@ Apparently, this type of lens needs to be arranged with the flat face facing the
 ## Static Overlay
 
 Static overlay is a technology tthat overlays digital informatioon onto the surrounding environment WITHOUT digital positioning. It plainly overlays digital information just like a transparent tablet in front of the user.
+
+## Purpose
+
+This device is used to see texts or "captions in real life" without needing to look at another device, and also retain the user's situattional awareness.
 
 # End
 
