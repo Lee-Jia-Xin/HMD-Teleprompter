@@ -20,6 +20,10 @@ The visor is the last optical component before the light enters the eyes. The vi
 
 ## Electronics
 
+### Batteries
+
+A JL-CD03C module is used to connect two 250mAh 3.7V LiPo batteries in series, to the Arduino Nano. The IN+ and IN- pins are left disconnected. The batteries are connected to the BAT+ and BAT- alongside the Arduino Nano via the VIN and GND pins.
+
 ### Arduino Nano
 
 An Arduino Nano is used as the central processor for the HMD device. An SSD1306 OLED display is connected to the Arduino Nano by pins 5V, GND, A4 and A5 to VCC, GND, SDA, SCL. A HC-05 Bluetooth module is also connected to the Nano by pins 5V, GND and D6 to VCC, GND, TX.  
