@@ -53,4 +53,10 @@ An SSD1306 OLED module is used as the primry display for the device. The wiring 
 11. Bend the eyepiece lens syring needle in a 90° angle to allow the lens to be vertically oriented while the syringe is horizontally oriented.
 12. Stick the Eyepiece lens onto the frame in such a position and orientation that when the view is pointed at the mirror, the objective lens does not obstruct the vision of the mirror.
 13. At this point the main body is almost ready. Just find a way stick the rest of components inside the frame but still close to the frame for cooling and you are basically done with the main body.
-14. Next, straighten a piece of paperclip TBC
+14. Next, straighten a piece of paperclip as the arm that holds the visor up.
+15. Make a small 90° bend at one end to increase surface area for hot glue bonding. (let's say they represent x1 and y1 axis)
+16. Make a small 30° bend along the z1 axis that is perpendicular to both x1 and y1. This serves as the initial preset angle for the arm relative to the main body. The L shape that you made here, let's all it L1.
+17. At the other end, make two 2cm 90° bends in such a way that there are two parallel parts with one part perpendicular to both. The L shape that you made here, let's all it L2. Then bend L2 so that it is perpendicular to L1. It should make an obtuse angle not acute.
+18. Hot glue the visor piece to L2 in... the obvious way...
+19. Hot glue L1 to the edge of the main body frame such that the visor "hangs" outside of the main body frame.
+20. Cover the frame with cardboard or opaque tape and it is done. Left calibration.
